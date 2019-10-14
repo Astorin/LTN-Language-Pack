@@ -1,0 +1,7 @@
+---------------------------------------------------------------------------------------------------
+Version: 0.1.0
+Date: 13. 10. 2019
+  Features:
+    - Added Russian locale for LTN v1.11.2
+    - Added Russian locale for LTN Tracker v0.10.9
+    - Added Russian locale for LTN Combinator v0.5.3
