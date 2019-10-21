@@ -1,4 +1,4 @@
-Version: 0.1.1
+Version: 0.2.0
 Date: 21. 10. 2019
   Features:
     - Added German locale for LTN v1.11.2
