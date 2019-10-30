@@ -1,3 +1,12 @@
+Version: 0.2.1
+Date: 30. 10. 2019
+  Features:
+    - Added mod info file for localization to English locale template
+    - Added mod info file to Russian locale
+  Changes:
+    - Updated Russian locale for LTN v1.11.3
+
+---------------------------------------------------------------------------------------------------
 Version: 0.2.0
 Date: 21. 10. 2019
   Features:
