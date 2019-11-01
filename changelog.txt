@@ -1,3 +1,10 @@
+Version: 0.3.0
+Date: 01. 11. 2019
+  Features:
+    - Added Italian locale for LTN (thanks AleWanKenobi)
+
+---------------------------------------------------------------------------------------------------
+
 Version: 0.2.1
 Date: 30. 10. 2019
   Features:
@@ -7,14 +14,16 @@ Date: 30. 10. 2019
     - Updated Russian locale for LTN v1.11.3
 
 ---------------------------------------------------------------------------------------------------
+
 Version: 0.2.0
 Date: 21. 10. 2019
   Features:
-    - Added German locale for LTN v1.11.2
-    - Added German locale for LTN Tracker v0.10.9
-    - Added German locale for LTN Combinator v0.5.3
+    - Added German locale for LTN v1.11.2 (thanks Wyrrrd)
+    - Added German locale for LTN Tracker v0.10.9 (thanks Wyrrrd)
+    - Added German locale for LTN Combinator v0.5.3 (thanks Wyrrrd)
 
 ---------------------------------------------------------------------------------------------------
+
 Version: 0.1.0
 Date: 13. 10. 2019
   Features:
