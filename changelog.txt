@@ -2,12 +2,13 @@
 Version: 0.3.5
 Date: 11. 04. 2020
   Features:
-    - Added German locale for LT Manager v0.1.2
+    - Added German locale for LTN Manager v0.1.3
+
 ---------------------------------------------------------------------------------------------------
 Version: 0.3.4
 Date: 10. 04. 2020
   Features:
-    - Added Russian locale for LT Manager v0.1.2
+    - Added Russian locale for LTN Manager v0.1.3
 
 ---------------------------------------------------------------------------------------------------
 Version: 0.3.3
