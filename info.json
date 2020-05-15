@@ -3,7 +3,7 @@
   "title": "LTN Language Pack",
   "description": "Localizations for LTN, LTN Manager, LTN Tracker, LTN Combinator mods",
   "author": "Shadow_Man",
-  "version": "0.3.6",
+  "version": "0.4.0",
   "factorio_version": "0.18",
   "dependencies": ["base >= 0.18.0", "LogisticTrainNetwork >= 1.10.7", "?LTN_Combinator >= 0.5.3", "?LtnManager >= 0.1.3", "?LTN_Tracker >= 0.10.7"]
 }

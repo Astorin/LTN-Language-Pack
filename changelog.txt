@@ -1,23 +1,27 @@
 ---------------------------------------------------------------------------------------------------
-Version: 0.3.6
-Date: 14. 05. 2020
+Version: 0.4.0
+Date: 15. 05. 2020
   Features:
-    - Added Brazilian Portuguese locale for LTN v1.13.1
-    - Added Brazilian Portuguese locale for LTN_Combinator v0.6.2
-    - Added Brazilian Portuguese locale for LTN Tracker v0.10.9
-    - Added Brazilian Portuguese locale for LTN Manager v0.1.10
+    - Added Brazilian Portuguese locale for LTN v1.13.1 (jeison-souza)
+    - Added Brazilian Portuguese locale for LTN_Combinator v0.6.2 (jeison-souza)
+    - Added Brazilian Portuguese locale for LTN Tracker v0.10.9 (jeison-souza)
+    - Added Brazilian Portuguese locale for LTN Manager v0.1.10 (jeison-souza)
+  Updates:
+    - Updated English locale template for LTN v1.13.2, LTN Manager v0.1.10 (Shadow_Man)
+    - Updated Russian locale for LTN v1.13.2 (Shadow_Man)
+    - Updated Russian locale for LTN Manager v0.1.10 (Shadow_Man)
     
 ---------------------------------------------------------------------------------------------------
 Version: 0.3.5
 Date: 11. 04. 2020
   Features:
-    - Added German locale for LTN Manager v0.1.3
+    - Added German locale for LTN Manager v0.1.3 (Wyrrrd)
 
 ---------------------------------------------------------------------------------------------------
 Version: 0.3.4
 Date: 10. 04. 2020
   Features:
-    - Added Russian locale for LTN Manager v0.1.3
+    - Added Russian locale for LTN Manager v0.1.3 (Shadow_Man)
 
 ---------------------------------------------------------------------------------------------------
 Version: 0.3.3
@@ -30,8 +34,8 @@ Date: 22. 01. 2020
 Version: 0.3.2
 Date: 21. 12. 2019
   Changes:
-    - Updated English locale template for LTN Combinator v0.5.4
-    - Updated Russian locale for LTN Combinator v0.5.4
+    - Updated English locale template for LTN Combinator v0.5.4 (Shadow_Man)
+    - Updated Russian locale for LTN Combinator v0.5.4 (Shadow_Man)
 
 ---------------------------------------------------------------------------------------------------
 Version: 0.3.1
