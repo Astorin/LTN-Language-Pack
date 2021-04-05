@@ -1,4 +1,12 @@
-﻿Version: 1.4.7
+﻿---------------------------------------------------------------------------------------------------
+Version: 1.4.8
+Date: 05. 04. 2021
+  Updates:
+    - Updated German locale (ickputzdirwech)
+    - Updated Russian locale (Shadow_Man)
+
+---------------------------------------------------------------------------------------------------
+Version: 1.4.7
 Date: 14. 02. 2021
   Updates:
     - Added Polish locale for LTN v1.15.2 (no_desired_username)
