@@ -1,15 +1,26 @@
-﻿---------------------------------------------------------------------------------------------------
-Version: 1.4.8
+﻿Version: 1.7.0
+Date: 23. 05. 2021
+  Updates:
+    - Added Czech locale (partial) (Bakendrid)
+
+---------------------------------------------------------------------------------------------------
+Version: 1.6.0
+Date: 04. 05. 2021
+  Updates:
+    - Added Chinese Simplified locale (Ph.X)
+
+---------------------------------------------------------------------------------------------------
+Version: 1.5.1
 Date: 05. 04. 2021
   Updates:
     - Updated German locale (ickputzdirwech)
     - Updated Russian locale (Shadow_Man)
 
 ---------------------------------------------------------------------------------------------------
-Version: 1.4.7
+Version: 1.5.0
 Date: 14. 02. 2021
   Updates:
-    - Added Polish locale for LTN v1.15.2 (no_desired_username)
+    - Added Polish locale (no_desired_username)
 
 ---------------------------------------------------------------------------------------------------
 Version: 1.4.6
