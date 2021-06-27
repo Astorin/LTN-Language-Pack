@@ -1,4 +1,11 @@
-﻿Version: 1.7.0
+﻿Version: 1.8.0
+Date: 27. 06. 2021
+  Updates:
+    - Added Spanish locale (partial) (Rubén Sánchez Castro)
+    - Updated Czech locale (Bakendrid)
+
+---------------------------------------------------------------------------------------------------
+Version: 1.7.0
 Date: 23. 05. 2021
   Updates:
     - Added Czech locale (partial) (Bakendrid)
