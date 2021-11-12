@@ -1,4 +1,24 @@
-﻿Version: 1.8.0
+﻿---------------------------------------------------------------------------------------------------
+Version: 1.8.3
+Date: 12. 11. 2021
+  Updates:
+    - Added English locale templates for LTN Cleanup, LTN Combinator Modernized, LTN Content Reader mods.
+    - Added Russian locale for LTN Cleanup, LTN Combinator Modernized, LTN Content Reader mods (Shadow_Man)
+
+---------------------------------------------------------------------------------------------------
+Version: 1.8.2
+Date: 29. 08. 2021
+  Updates:
+    - Updated Brazilian Portuguese locale (Bruno Melo)
+
+---------------------------------------------------------------------------------------------------
+Version: 1.8.1
+Date: 15. 08. 2021
+  Updates:
+    - Removed [ALPHA] status from LTN Manager mod name and description as it stable now.
+
+---------------------------------------------------------------------------------------------------
+Version: 1.8.0
 Date: 27. 06. 2021
   Updates:
     - Added Spanish locale (partial) (Rubén Sánchez Castro)

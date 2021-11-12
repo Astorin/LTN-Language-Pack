@@ -1,9 +1,15 @@
 {
   "name": "LTN_Language_Pack",
   "title": "LTN Language Pack",
-  "description": "Localizations for LTN, LTN Manager, LTN Combinator mods.\nContribute on Crowdin (link in mod info page).",
-  "author": "Shadow_Man",
-  "version": "1.8.0",
+  "description": "Localizations for LTN, LTN Manager, LTN Cleanup, LTN Combinator, LTN Combinator Modernized, LTN Content Reader mods.\nContribute on Crowdin (link in mod info page).",
+  "author": "Shadow_Man, Factorio community",
+  "version": "1.8.3",
   "factorio_version": "1.1",
-  "dependencies": ["LogisticTrainNetwork >= 1.15.1", "?LTN_Combinator >= 0.5.3", "?LtnManager >= 0.3.0"]
+  "dependencies": [
+    "LogisticTrainNetwork >= 1.15.1",
+    "?ltn-cleanup >= 1.0",
+    "?LTN_Combinator >= 0.5.3",
+    "?LTN_Combinator_Modernized >= 1.0",
+    "?LTN_Content_Reader >= 1.0",
+    "?LtnManager >= 0.3.0"]
 }
