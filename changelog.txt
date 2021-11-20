@@ -1,4 +1,13 @@
 ﻿---------------------------------------------------------------------------------------------------
+Version: 1.8.5
+Date: 21. 11. 2021
+  Updates:
+    - Updated Russian locale for LTN v1.16.7 (Shadow_Man)
+    - Updated Russian locale for LTN Manager v0.4.5 (Shadow_Man)
+    - Updated Russian locale for LTN Combinator Modernized v1.0.9 (Shadow_Man)
+    - Updated other locales to actual mod versions (from Crowdin)
+
+---------------------------------------------------------------------------------------------------
 Version: 1.8.4
 Date: 16. 11. 2021
   Updates:
