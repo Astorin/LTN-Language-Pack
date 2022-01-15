@@ -1,4 +1,10 @@
 ﻿---------------------------------------------------------------------------------------------------
+Version: 1.9.0
+Date: 16. 01. 2022
+  Updates:
+    - Added Ukrainian locale for LTN, LTN Manager, LTN Cleanup, LTN Combinator, LTN Combinator Modernized, LTN Content Reader mods (Met_en_Bouldry)
+
+---------------------------------------------------------------------------------------------------
 Version: 1.8.5
 Date: 21. 11. 2021
   Updates:
