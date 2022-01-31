@@ -1,4 +1,11 @@
 ﻿---------------------------------------------------------------------------------------------------
+Version: 1.9.1
+Date: 31. 01. 2022
+  Updates:
+    - Updated Ukrainian locale (Met_en_Bouldry)
+    - Updated Brazilian Portuguese locale for LTN (daniel dani)
+
+---------------------------------------------------------------------------------------------------
 Version: 1.9.0
 Date: 16. 01. 2022
   Updates:
