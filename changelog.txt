@@ -1,4 +1,65 @@
 ﻿---------------------------------------------------------------------------------------------------
+Version: 1.11.1
+Date: 16. 04. 2023
+  Updates:
+    - Small updates to PL, PT-BR, RU, UK locales (from Crowdin)
+
+---------------------------------------------------------------------------------------------------
+Version: 1.11.0
+Date: 21. 01. 2023
+  Updates:
+    - Added Catalan locale (Nara Díaz Viñolas)
+    - Updated German locale (xyzzycgn)
+
+---------------------------------------------------------------------------------------------------
+Version: 1.10.3
+Date: 17. 12. 2022
+  Updates:
+    - Updated Czech locale (Bakendrid)
+
+---------------------------------------------------------------------------------------------------
+Version: 1.10.2
+Date: 24. 10. 2022
+  Updates:
+    - Updated Ukrainian locale for LTN Combinator Modernized (Met_en_Bouldry)
+
+---------------------------------------------------------------------------------------------------
+Version: 1.10.1
+Date: 20. 10. 2022
+  Updates:
+    - Updated English locale template for LTN Combinator Modernized to v1.0.13 (Shadow_Man)
+    - Updated Brazilian Portuguese locale (Henrique Pimenta)
+    - Updated German locale for LTN Cleanup, LTN Combinator Modernized (PatrickBlack)
+    - Updated Russian locale for LTN Combinator Modernized (Shadow_Man)
+
+---------------------------------------------------------------------------------------------------
+Version: 1.10.0
+Date: 18. 08. 2022
+  Updates:
+    - Added Japanese locale (nojio)
+    - Updated Polish locale (zium-xyz)
+
+---------------------------------------------------------------------------------------------------
+Version: 1.9.5
+Date: 01. 08. 2022
+  Updates:
+    - Updated Russian locale (Shadow_Man)
+    - Updated Ukrainian locale (Met_en_Bouldry)
+    - Small updates of other locales (Crowdin community)
+
+---------------------------------------------------------------------------------------------------
+Version: 1.9.4
+Date: 01. 05. 2022
+  Updates:
+    - Updated Chinese Simplified locale for LTN Manager (STRRL)
+
+---------------------------------------------------------------------------------------------------
+Version: 1.9.3
+Date: 10. 04. 2022
+  Updates:
+    - German locale fixes (natha.u, Shadow_Man)
+
+---------------------------------------------------------------------------------------------------
 Version: 1.9.2
 Date: 14. 02. 2022
   Updates:
@@ -9,8 +70,8 @@ Date: 14. 02. 2022
 Version: 1.9.1
 Date: 31. 01. 2022
   Updates:
-    - Updated Ukrainian locale (Met_en_Bouldry)
     - Updated Brazilian Portuguese locale for LTN (daniel dani)
+    - Updated Ukrainian locale (Met_en_Bouldry)
 
 ---------------------------------------------------------------------------------------------------
 Version: 1.9.0

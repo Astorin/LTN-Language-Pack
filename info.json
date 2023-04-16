@@ -4,7 +4,7 @@
   "description": "Localizations for LTN, LTN Manager, LTN Cleanup, LTN Combinator, LTN Combinator Modernized, LTN Content Reader mods.\nContribute on Crowdin (link in mod info page).",
   "author": "Shadow_Man, Factorio community",
   "homepage": "https://github.com/Astorin/LTN-Language-Pack",
-  "version": "1.9.2",
+  "version": "1.11.1",
   "factorio_version": "1.1",
   "dependencies": [
     "LogisticTrainNetwork >= 1.16.0",
