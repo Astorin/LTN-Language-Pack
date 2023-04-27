@@ -210,7 +210,7 @@ Date: 15. 05. 2020
     - Updated English locale template for LTN v1.13.2, LTN Manager v0.1.10 (Shadow_Man)
     - Updated Russian locale for LTN v1.13.2 (Shadow_Man)
     - Updated Russian locale for LTN Manager v0.1.10 (Shadow_Man)
-    
+
 ---------------------------------------------------------------------------------------------------
 Version: 0.3.5
 Date: 11. 04. 2020
