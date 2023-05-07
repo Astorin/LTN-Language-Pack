@@ -1,4 +1,14 @@
 ﻿---------------------------------------------------------------------------------------------------
+Version: 1.11.3
+Date: 07. 05. 2023
+  Updates:
+    - Updated Japanese locale for LTN, LTN Combinator Modernized, LTN Manager (YAMATO_Hajime)
+    - Updated Russian locale for LTN Combinator Modernized, LTN Manager (Shadow_Man)
+    - Updated Ukrainian locale for LTN, LTN Combinator Modernized, LTN Manager (Met_en_Bouldry)
+  Bugfixes:
+    - Fixed a formatting error that prevents the changelog from being viewed in-game (ComradeEcho)
+
+---------------------------------------------------------------------------------------------------
 Version: 1.11.2
 Date: 26. 04. 2023
   Updates:
