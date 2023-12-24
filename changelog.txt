@@ -1,4 +1,61 @@
 ﻿---------------------------------------------------------------------------------------------------
+Version: 1.11.10
+Date: 25. 12. 2023
+  Updates:
+    - Updated Chinese Simplified locale for LTN Combinator Modernized, LTN Manager, Space Exploration LTN integration (TerMineFact)
+    - Updated Japanese locale for LTN Combinator, Space Exploration LTN integration (YAMATO_Hajime)
+    - Updated Russian locale for Space Exploration LTN integration (Shadow_Man)
+    - Updated Ukrainian locale for LTN Combinator Modernized, Space Exploration LTN integration (Met_en_Bouldry)
+
+---------------------------------------------------------------------------------------------------
+Version: 1.11.9
+Date: 16. 12. 2023
+  Updates:
+    - Updated Chinese Simplified locale for LTN, LTN Cleanup, LTN Combinator Modernized, LTN Content Reader, LTN Manager (TerMineFact)
+    - Updated Japanese locale for LTN, LTN Combinator Modernized, LTN Manager (YAMATO_Hajime)
+    - Updated Russian locale for LTN, LTN Cleanup, LTN Combinator Modernized, LTN Content Reader (Shadow_Man)
+
+---------------------------------------------------------------------------------------------------
+Version: 1.11.8
+Date: 29. 10. 2023
+  Updates:
+    - Updated German locale for LTN Combinator Modernized (Basti)
+    - Updated Japanese locale for LTN (YAMATO_Hajime)
+    - Updated Portuguese Brazilian locale for LTN Combinator Modernized (kryojenik)
+    - Updated Ukrainian locale for LTN Combinator Modernized (Met_en_Bouldry)
+
+---------------------------------------------------------------------------------------------------
+Version: 1.11.7
+Date: 01. 10. 2023
+  Updates:
+    - Updated German locale for LTN Manager (xyzzycgn)
+    - Updated Japanese locale for LTN, LTN Combinator Modernized, LTN Manager (YAMATO_Hajime)
+    - Updated Ukrainian locale for LTN Combinator Modernized (Met_en_Bouldry)
+
+---------------------------------------------------------------------------------------------------
+Version: 1.11.6
+Date: 23. 07. 2023
+  Updates:
+    - Updated Japanese locale for LTN Combinator Modernized (YAMATO_Hajime)
+    - Updated Russian locale for LTN Combinator Modernized (Shadow_Man)
+    - Small updates to CZ, DE, PL, PT-BR, UK, ZH-CN locales (from Crowdin)
+
+---------------------------------------------------------------------------------------------------
+Version: 1.11.5
+Date: 27. 06. 2023
+  Updates:
+    - Updated Ukrainian locale for LTN Combinator Modernized (Met_en_Bouldry)
+
+---------------------------------------------------------------------------------------------------
+Version: 1.11.4
+Date: 22. 05. 2023
+  Updates:
+    - Updated Czech locale for LTN Combinator Modernized (Šimon Šatra)
+    - Updated Japanese locale for LTN Combinator Modernized, LTN Manager (YAMATO_Hajime)
+    - Updated Russian locale for LTN Combinator Modernized (Shadow_Man)
+    - Updated Ukrainian locale for LTN, LTN Combinator Modernized, LTN Manager (Met_en_Bouldry)
+
+---------------------------------------------------------------------------------------------------
 Version: 1.11.3
 Date: 07. 05. 2023
   Updates:
