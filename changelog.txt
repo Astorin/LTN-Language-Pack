@@ -1,4 +1,33 @@
 ﻿---------------------------------------------------------------------------------------------------
+Version: 2.12.0
+Date: 24. 02. 2025
+  Changes:
+    - Updated to Factorio v2.0
+    - Removed the LTN Combinator locale, as the mod is very outdated.
+  Updates:
+    - Added Czech locale for LTN Train Information Combinator (psicho100pro)
+    - Added Japanese locale for LTN Train Information Combinator (YAMATO_Hajime)
+    - Added Russian locale for LTN Train Information Combinator (Shadow_Man)
+    - Updated Czech locale for LTN Manager (psicho100pro)
+    - Updated Japanese locale for LTN (YAMATO_Hajime)
+    - Updated Russian locale for LTN, LTN Manager (Shadow_Man)
+
+---------------------------------------------------------------------------------------------------
+Version: 1.11.12
+Date: 10. 11. 2024
+  Updates:
+    - Updated Catalan locale for LTN (from Crowdin)
+    - Updated Czech locale (from Crowdin)
+
+---------------------------------------------------------------------------------------------------
+Version: 1.11.11
+Date: 18. 08. 2024
+  Updates:
+    - Updated Chinese Simplified locale (from Crowdin)
+    - Updated French locale (from Crowdin)
+    - Updated Japanese locale for LTN Combinator (from Crowdin)
+
+---------------------------------------------------------------------------------------------------
 Version: 1.11.10
 Date: 25. 12. 2023
   Updates:
